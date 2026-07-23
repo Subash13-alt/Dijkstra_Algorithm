@@ -27,17 +27,6 @@ https://dijkstraalgorithm-u9z5ttwjfdjgjofqxsn25n.streamlit.app/
 
 ---
 
-## 📂 Project Structure
-
-```
-Dijkstra-App/
-│── app.py
-│── requirements.txt
-│── README.md
-```
-
----
-
 ## 📊 Sample Graph
 
 ```python
@@ -50,35 +39,6 @@ graph = {
     5: []
 }
 ```
-
----
-
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/dijkstra-shortest-path-visualizer.git
-```
-
-Move into the project folder
-
-```bash
-cd dijkstra-shortest-path-visualizer
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 ## 📖 How It Works
