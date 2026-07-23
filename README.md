@@ -2,6 +2,8 @@
 
 An interactive web application built with **Python** and **Streamlit** that demonstrates **Dijkstra's Shortest Path Algorithm** using a **Min-Heap (Priority Queue)**. Users can select a source vertex and view the shortest distance and path to every other vertex in a weighted graph.
 
+https://dijkstraalgorithm-u9z5ttwjfdjgjofqxsn25n.streamlit.app/
+
 ---
 
 ## 🚀 Features
